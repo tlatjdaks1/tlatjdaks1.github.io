@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# pds 확장자 파일 제외
-*.pds
+# psd 확장자 파일 제외
+*.psd
