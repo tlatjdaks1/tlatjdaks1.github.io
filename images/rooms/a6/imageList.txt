@@ -1,0 +1,15 @@
+export const ROOM01_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room01.jpg`;
+export const ROOM02_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room02.jpg`;
+export const ROOM03_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room03.jpg`;
+export const ROOM04_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room04.jpg`;
+export const ROOM05_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room05.jpg`;
+export const ROOM06_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room06.jpg`;
+export const ROOM07_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room07.jpg`;
+export const ROOM08_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room08.jpg`;
+export const ROOM09_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room09.jpg`;
+export const ROOM10_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room10.jpg`;
+export const ROOM11_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room11.jpg`;
+export const ROOM12_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room12.jpg`;
+export const ROOM13_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room13.jpg`;
+export const ROOM14_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room14.jpg`;
+export const ROOM15_A1_PATH = `${process.env.PUBLIC_URL}/images/rooms/a1/room15.jpg`;
