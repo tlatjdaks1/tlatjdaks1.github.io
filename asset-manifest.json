@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cee0cf01.css",
-    "main.js": "/static/js/main.339d1391.js",
+    "main.js": "/static/js/main.eab6884f.js",
     "static/css/301.035475d1.chunk.css": "/static/css/301.035475d1.chunk.css",
     "static/js/301.76ad0f1d.chunk.js": "/static/js/301.76ad0f1d.chunk.js",
     "static/js/278.d1132b40.chunk.js": "/static/js/278.d1132b40.chunk.js",
@@ -47,7 +47,7 @@
     "static/css/121.1c452b66.chunk.css": "/static/css/121.1c452b66.chunk.css",
     "static/js/121.09e41109.chunk.js": "/static/js/121.09e41109.chunk.js",
     "static/js/151.ec4144ed.chunk.js": "/static/js/151.ec4144ed.chunk.js",
-    "static/js/908.5573c55c.chunk.js": "/static/js/908.5573c55c.chunk.js",
+    "static/js/908.e3943497.chunk.js": "/static/js/908.e3943497.chunk.js",
     "static/js/703.bbbb717e.chunk.js": "/static/js/703.bbbb717e.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-barbecue.svg": "/static/media/icon-barbecue.16621939b38e7174103ad0a119cdf5ca.svg",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.cee0cf01.css",
-    "static/js/main.339d1391.js"
+    "static/js/main.eab6884f.js"
   ]
 }
