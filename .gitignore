@@ -25,3 +25,4 @@ yarn-error.log*
 
 # psd 확장자 파일 제외
 *.psd
+*.docx
