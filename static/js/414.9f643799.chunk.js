@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstay_part_app=self.webpackChunkstay_part_app||[]).push([[414],{4572:function(a,p,t){t.r(p);var s=t(6874);p.default=(0,s.oq)("KITCHEN2")}}]);
