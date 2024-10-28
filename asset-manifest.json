@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0df58c30.css",
-    "main.js": "/static/js/main.074a81dd.js",
+    "main.css": "/static/css/main.ca2a1020.css",
+    "main.js": "/static/js/main.6eeb141e.js",
     "static/css/843.035475d1.chunk.css": "/static/css/843.035475d1.chunk.css",
     "static/js/843.6989f067.chunk.js": "/static/js/843.6989f067.chunk.js",
     "static/js/278.541bcb37.chunk.js": "/static/js/278.541bcb37.chunk.js",
@@ -62,12 +62,15 @@
     "static/js/892.f2c771e9.chunk.js": "/static/js/892.f2c771e9.chunk.js",
     "static/css/83.035475d1.chunk.css": "/static/css/83.035475d1.chunk.css",
     "static/js/83.f8a16654.chunk.js": "/static/js/83.f8a16654.chunk.js",
+    "static/js/660.f696a7c0.chunk.js": "/static/js/660.f696a7c0.chunk.js",
+    "static/js/686.d575f7b6.chunk.js": "/static/js/686.d575f7b6.chunk.js",
     "static/js/27.3985c924.chunk.js": "/static/js/27.3985c924.chunk.js",
     "static/css/121.1c452b66.chunk.css": "/static/css/121.1c452b66.chunk.css",
     "static/js/121.09e41109.chunk.js": "/static/js/121.09e41109.chunk.js",
     "static/js/151.ec4144ed.chunk.js": "/static/js/151.ec4144ed.chunk.js",
     "static/js/177.69d57178.chunk.js": "/static/js/177.69d57178.chunk.js",
     "static/js/874.476a8cea.chunk.js": "/static/js/874.476a8cea.chunk.js",
+    "static/js/347.a63330d7.chunk.js": "/static/js/347.a63330d7.chunk.js",
     "static/js/609.878ba7ec.chunk.js": "/static/js/609.878ba7ec.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-book-now.svg": "/static/media/icon-book-now.61072b35efb4a2977f8a1d4cb9ac4a81.svg",
@@ -78,10 +81,12 @@
     "static/media/icon-pools.svg": "/static/media/icon-pools.f82db08864b8ec71b3ef7bed7f1c0346.svg",
     "static/media/icon-map.svg": "/static/media/icon-map.30da626aae96a6bb7425f3d70a3ac29b.svg",
     "static/media/icon-phone.svg": "/static/media/icon-phone.77a89df8aaa7244c96ca44ef5e2bb357.svg",
-    "static/media/icon-arrow.svg": "/static/media/icon-arrow.0e8d22596d592631d27b45d83ad2168f.svg"
+    "static/media/icon-arrow.svg": "/static/media/icon-arrow.0e8d22596d592631d27b45d83ad2168f.svg",
+    "static/media/icon-copy-check.svg": "/static/media/icon-copy-check.5ef1b3625fe6cb547b7971ee69c47df2.svg",
+    "static/media/icon-copy.svg": "/static/media/icon-copy.a8d3b86a65a169ecff235c88972607a4.svg"
   },
   "entrypoints": [
-    "static/css/main.0df58c30.css",
-    "static/js/main.074a81dd.js"
+    "static/css/main.ca2a1020.css",
+    "static/js/main.6eeb141e.js"
   ]
 }
