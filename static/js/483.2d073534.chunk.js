@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstay_part_app=self.webpackChunkstay_part_app||[]).push([[483],{1938:function(a,p,t){t.r(p);var s=t(8690);p.default=(0,s.ti)("SCREEN_GOLF")}}]);
