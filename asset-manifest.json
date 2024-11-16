@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c101e2d0.css",
-    "main.js": "/static/js/main.4a2dbed8.js",
+    "main.css": "/static/css/main.97060e4c.css",
+    "main.js": "/static/js/main.4d40761e.js",
     "static/css/843.035475d1.chunk.css": "/static/css/843.035475d1.chunk.css",
     "static/js/843.e28fdb8e.chunk.js": "/static/js/843.e28fdb8e.chunk.js",
     "static/js/278.541bcb37.chunk.js": "/static/js/278.541bcb37.chunk.js",
@@ -73,7 +73,7 @@
     "static/js/690.86b21b08.chunk.js": "/static/js/690.86b21b08.chunk.js",
     "static/js/874.c1e8a4a5.chunk.js": "/static/js/874.c1e8a4a5.chunk.js",
     "static/js/94.124e5058.chunk.js": "/static/js/94.124e5058.chunk.js",
-    "static/js/609.ccbafd1f.chunk.js": "/static/js/609.ccbafd1f.chunk.js",
+    "static/js/609.15040086.chunk.js": "/static/js/609.15040086.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-book-now.svg": "/static/media/icon-book-now.61072b35efb4a2977f8a1d4cb9ac4a81.svg",
     "static/media/icon-golfs.svg": "/static/media/icon-golfs.95e6446d1b40ed0b7ed96486b8b29027.svg",
@@ -89,7 +89,7 @@
     "static/media/icon-copy.svg": "/static/media/icon-copy.a8d3b86a65a169ecff235c88972607a4.svg"
   },
   "entrypoints": [
-    "static/css/main.c101e2d0.css",
-    "static/js/main.4a2dbed8.js"
+    "static/css/main.97060e4c.css",
+    "static/js/main.4d40761e.js"
   ]
 }
