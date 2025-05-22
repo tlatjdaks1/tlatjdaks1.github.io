@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69fbff00.css",
-    "main.js": "/static/js/main.f32ca2d0.js",
+    "main.js": "/static/js/main.40a6f771.js",
     "static/css/843.035475d1.chunk.css": "/static/css/843.035475d1.chunk.css",
     "static/js/843.74ceddee.chunk.js": "/static/js/843.74ceddee.chunk.js",
     "static/js/278.541bcb37.chunk.js": "/static/js/278.541bcb37.chunk.js",
@@ -76,7 +76,7 @@
     "static/js/737.13528503.chunk.js": "/static/js/737.13528503.chunk.js",
     "static/js/874.1f7a7b76.chunk.js": "/static/js/874.1f7a7b76.chunk.js",
     "static/js/604.d17fd87c.chunk.js": "/static/js/604.d17fd87c.chunk.js",
-    "static/js/94.44ef62c4.chunk.js": "/static/js/94.44ef62c4.chunk.js",
+    "static/js/94.cf4215be.chunk.js": "/static/js/94.cf4215be.chunk.js",
     "static/js/609.4d2c8450.chunk.js": "/static/js/609.4d2c8450.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-book-now.svg": "/static/media/icon-book-now.61072b35efb4a2977f8a1d4cb9ac4a81.svg",
@@ -94,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.69fbff00.css",
-    "static/js/main.f32ca2d0.js"
+    "static/js/main.40a6f771.js"
   ]
 }
