@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.69fbff00.css",
-    "main.js": "/static/js/main.4a8424a6.js",
+    "main.css": "/static/css/main.54e90f0c.css",
+    "main.js": "/static/js/main.cca620c0.js",
     "static/css/843.035475d1.chunk.css": "/static/css/843.035475d1.chunk.css",
     "static/js/843.d8840437.chunk.js": "/static/js/843.d8840437.chunk.js",
     "static/js/278.541bcb37.chunk.js": "/static/js/278.541bcb37.chunk.js",
@@ -65,8 +65,8 @@
     "static/js/892.f2c771e9.chunk.js": "/static/js/892.f2c771e9.chunk.js",
     "static/css/83.035475d1.chunk.css": "/static/css/83.035475d1.chunk.css",
     "static/js/83.f8a16654.chunk.js": "/static/js/83.f8a16654.chunk.js",
-    "static/js/660.3d981b30.chunk.js": "/static/js/660.3d981b30.chunk.js",
-    "static/js/686.b7d881a5.chunk.js": "/static/js/686.b7d881a5.chunk.js",
+    "static/js/660.63a40766.chunk.js": "/static/js/660.63a40766.chunk.js",
+    "static/js/686.b115fae3.chunk.js": "/static/js/686.b115fae3.chunk.js",
     "static/css/289.035475d1.chunk.css": "/static/css/289.035475d1.chunk.css",
     "static/js/289.672d9eed.chunk.js": "/static/js/289.672d9eed.chunk.js",
     "static/js/27.3985c924.chunk.js": "/static/js/27.3985c924.chunk.js",
@@ -76,7 +76,7 @@
     "static/js/737.3819507a.chunk.js": "/static/js/737.3819507a.chunk.js",
     "static/js/874.7058341e.chunk.js": "/static/js/874.7058341e.chunk.js",
     "static/js/604.d17fd87c.chunk.js": "/static/js/604.d17fd87c.chunk.js",
-    "static/js/94.b1dae0f7.chunk.js": "/static/js/94.b1dae0f7.chunk.js",
+    "static/js/950.0acccadf.chunk.js": "/static/js/950.0acccadf.chunk.js",
     "static/js/609.4d2c8450.chunk.js": "/static/js/609.4d2c8450.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-book-now.svg": "/static/media/icon-book-now.61072b35efb4a2977f8a1d4cb9ac4a81.svg",
@@ -90,10 +90,13 @@
     "static/media/icon-arrow.svg": "/static/media/icon-arrow.0e8d22596d592631d27b45d83ad2168f.svg",
     "static/media/icon-copy-check.svg": "/static/media/icon-copy-check.5ef1b3625fe6cb547b7971ee69c47df2.svg",
     "static/media/icon-download.svg": "/static/media/icon-download.a0e270d29ac8d78cb139a514282f90ac.svg",
-    "static/media/icon-copy.svg": "/static/media/icon-copy.a8d3b86a65a169ecff235c88972607a4.svg"
+    "static/media/icon-copy.svg": "/static/media/icon-copy.a8d3b86a65a169ecff235c88972607a4.svg",
+    "static/media/icon-email.svg": "/static/media/icon-email.cd656c54d191004ab724845b21546406.svg",
+    "static/media/icon-loader-circle.svg": "/static/media/icon-loader-circle.2b9d6ea072a93816489fb36b4e8a323b.svg",
+    "static/media/icon-send.svg": "/static/media/icon-send.e05f499e989dc8c3faa798773d4962e6.svg"
   },
   "entrypoints": [
-    "static/css/main.69fbff00.css",
-    "static/js/main.4a8424a6.js"
+    "static/css/main.54e90f0c.css",
+    "static/js/main.cca620c0.js"
   ]
 }
