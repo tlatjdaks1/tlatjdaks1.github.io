@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0d7bfc4.css",
-    "main.js": "/static/js/main.93520f34.js",
+    "main.js": "/static/js/main.af2ce70a.js",
     "static/css/843.035475d1.chunk.css": "/static/css/843.035475d1.chunk.css",
     "static/js/843.0eea823f.chunk.js": "/static/js/843.0eea823f.chunk.js",
     "static/js/278.541bcb37.chunk.js": "/static/js/278.541bcb37.chunk.js",
@@ -76,7 +76,7 @@
     "static/js/164.fd809f20.chunk.js": "/static/js/164.fd809f20.chunk.js",
     "static/js/874.c4c8c440.chunk.js": "/static/js/874.c4c8c440.chunk.js",
     "static/js/604.ebc46b56.chunk.js": "/static/js/604.ebc46b56.chunk.js",
-    "static/js/917.e7e878c0.chunk.js": "/static/js/917.e7e878c0.chunk.js",
+    "static/js/917.d6fb7770.chunk.js": "/static/js/917.d6fb7770.chunk.js",
     "index.html": "/index.html",
     "static/media/icon-book-now.svg": "/static/media/icon-book-now.61072b35efb4a2977f8a1d4cb9ac4a81.svg",
     "static/media/icon-golfs.svg": "/static/media/icon-golfs.95e6446d1b40ed0b7ed96486b8b29027.svg",
@@ -97,6 +97,6 @@
   },
   "entrypoints": [
     "static/css/main.f0d7bfc4.css",
-    "static/js/main.93520f34.js"
+    "static/js/main.af2ce70a.js"
   ]
 }
