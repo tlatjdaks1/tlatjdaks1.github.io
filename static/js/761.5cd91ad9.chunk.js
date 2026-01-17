@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstay_part_app=self.webpackChunkstay_part_app||[]).push([[761],{5890:function(a,p,t){t.r(p);var s=t(3734);p.default=(0,s.nZ)("BARBECUE")}}]);
